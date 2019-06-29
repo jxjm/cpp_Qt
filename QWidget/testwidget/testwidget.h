@@ -10,6 +10,10 @@ class testwidget : public QWidget
 public:
 	testwidget(QWidget *parent = Q_NULLPTR);
 
+public slots:void move(int x, int y) {
+	QWidget::move(x, y);
+};
+
 private:
 	Ui::testwidgetClass ui;
 };

@@ -1,5 +1,5 @@
-﻿  Uic'ing testwidget.ui...
-  moc_testwidget.cpp
+﻿  Moc'ing Xthread.h...
+  moc_Xthread.cpp
+  Xthread.cpp
   main.cpp
-  testwidget.cpp
   testwidget.vcxproj -> C:\Users\Administrator\Documents\GitKraken\cpp_Qt\QWidget\x64\Debug\testwidget.exe

@@ -36,9 +36,15 @@
     <ClCompile Include="testwidget.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Xthread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <QtMoc Include="testwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Xthread.h">
       <Filter>Header Files</Filter>
     </QtMoc>
   </ItemGroup>
